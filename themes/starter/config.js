@@ -124,28 +124,28 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '非常好用！已经第三次回购了，有问题咨询基本都是秒回的！放心冲！！！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://lsky.zhongzhuan.chat/i/2025/09/29/68da9a2f5a012.png',
+        'https://lsky.zhongzhuan.chat/i/2025/09/29/68da9a2f5a012.png?width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'sheelover',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '买家朋友',
-      STARTER_TESTIMONIALS_ITEM_URL: ''
+      // STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '真的非常值！之前买的一家找不到人了，还是得选择靠谱的卖家！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://lsky.zhongzhuan.chat/i/2025/09/29/68da9a2e41bd3.png',
+        'https://lsky.zhongzhuan.chat/i/2025/09/29/68da9a2e41bd3.png?width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '蘑菇汤最沉稳',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '买家朋友',
-      STARTER_TESTIMONIALS_ITEM_URL: ''
+      // STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '发货很快，写的教程很用心！已经顺利用上了！',
+        '发货很快，写的教程很用心！已经顺利用上了！值得信赖！非常满意！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://lsky.zhongzhuan.chat/i/2025/09/29/68da9a2e0434a.png',
+        'https://lsky.zhongzhuan.chat/i/2025/09/29/68da9a2e0434a.png?width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '秋风渡里渡秋风',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '买家朋友',
-      STARTER_TESTIMONIALS_ITEM_URL: ''
+      // STARTER_TESTIMONIALS_ITEM_URL: ''
     }
   ],
 

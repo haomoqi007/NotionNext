@@ -232,39 +232,39 @@ const CONFIG = {
   //   STARTER_CONTACT_MSG_THANKS: '感谢您的留言',
 
   // 合作伙伴的图标
-  STARTER_BRANDS_ENABLE: true, // 合作伙伴开关
-  STARTER_BRANDS: [
-    {
-      IMAGE: '/images/starter/brands/graygrids.svg',
-      IMAGE_WHITE: '/images/starter/brands/graygrids-white.svg',
-      URL: 'https://graygrids.com/',
-      TITLE: 'graygrids'
-    },
-    {
-      IMAGE: '/images/starter/brands/lineicons.svg',
-      IMAGE_WHITE: '/images/starter/brands/lineicons-white.svg',
-      URL: 'https://lineicons.com/',
-      TITLE: 'lineicons'
-    },
-    {
-      IMAGE: '/images/starter/brands/uideck.svg',
-      IMAGE_WHITE: '/images/starter/brands/uideck-white.svg',
-      URL: 'https://uideck.com/',
-      TITLE: 'uideck'
-    },
-    {
-      IMAGE: '/images/starter/brands/ayroui.svg',
-      IMAGE_WHITE: '/images/starter/brands/ayroui-white.svg',
-      URL: 'https://ayroui.com/',
-      TITLE: 'ayroui'
-    },
-    {
-      IMAGE: '/images/starter/brands/tailgrids.svg',
-      IMAGE_WHITE: '/images/starter/brands/tailgrids-white.svg',
-      URL: '"https://tailgrids.com/',
-      TITLE: 'tailgrids'
-    }
-  ],
+  // STARTER_BRANDS_ENABLE: true, // 合作伙伴开关
+  // STARTER_BRANDS: [
+  //   {
+  //     IMAGE: '/images/starter/brands/graygrids.svg',
+  //     IMAGE_WHITE: '/images/starter/brands/graygrids-white.svg',
+  //     URL: 'https://graygrids.com/',
+  //     TITLE: 'graygrids'
+  //   },
+  //   {
+  //     IMAGE: '/images/starter/brands/lineicons.svg',
+  //     IMAGE_WHITE: '/images/starter/brands/lineicons-white.svg',
+  //     URL: 'https://lineicons.com/',
+  //     TITLE: 'lineicons'
+  //   },
+  //   {
+  //     IMAGE: '/images/starter/brands/uideck.svg',
+  //     IMAGE_WHITE: '/images/starter/brands/uideck-white.svg',
+  //     URL: 'https://uideck.com/',
+  //     TITLE: 'uideck'
+  //   },
+  //   {
+  //     IMAGE: '/images/starter/brands/ayroui.svg',
+  //     IMAGE_WHITE: '/images/starter/brands/ayroui-white.svg',
+  //     URL: 'https://ayroui.com/',
+  //     TITLE: 'ayroui'
+  //   },
+  //   {
+  //     IMAGE: '/images/starter/brands/tailgrids.svg',
+  //     IMAGE_WHITE: '/images/starter/brands/tailgrids-white.svg',
+  //     URL: '"https://tailgrids.com/',
+  //     TITLE: 'tailgrids'
+  //   }
+  // ],
 
   STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
 

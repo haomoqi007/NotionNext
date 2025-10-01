@@ -182,24 +182,24 @@ const CONFIG = {
   STARTER_TEAM_ITEMS: [
     {
       STARTER_TEAM_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
-      STARTER_TEAM_ITEM_NICKNAME: 'Tangly',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
+        'https://lsky.zhongzhuan.chat/i/2025/09/17/68ca93d09af4b.png',
+      STARTER_TEAM_ITEM_NICKNAME: 'Monkey007',
+      STARTER_TEAM_ITEM_DESCRIPTION: '开发'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Melissa Tatcher',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Marketing Expert'
+      STARTER_TEAM_ITEM_AVATAR: 'https://lsky.zhongzhuan.chat/i/2025/10/01/68dc7611561e4.png',
+      STARTER_TEAM_ITEM_NICKNAME: 'Pancake',
+      STARTER_TEAM_ITEM_DESCRIPTION: '售后'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Stuard Ferrel',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Digital Marketer'
+      STARTER_TEAM_ITEM_AVATAR: 'https://lsky.zhongzhuan.chat/i/2025/10/01/68dc76115aedf.png',
+      STARTER_TEAM_ITEM_NICKNAME: '花花',
+      STARTER_TEAM_ITEM_DESCRIPTION: '营销'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Eva Hudson',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Creative Designer'
+      STARTER_TEAM_ITEM_AVATAR: 'https://lsky.zhongzhuan.chat/i/2025/10/01/68dc76123372c.png',
+      STARTER_TEAM_ITEM_NICKNAME: 'Moon',
+      STARTER_TEAM_ITEM_DESCRIPTION: '创意'
     }
   ],
 
